@@ -1,0 +1,221 @@
+/* styles.css stylesheet for wopeh site */
+
+/*landing styles*/
+#landing{
+  background-color:#A0A0A0;
+}
+
+/* navbar styles */
+.a1{
+  color: #EED202;
+}
+
+.a1:hover{
+  color: #EED202;
+}
+
+.landing-container{
+  background-color: #A0A0A0;
+
+}
+
+.my-navbar{
+  background-color: #A0A0A0;
+}
+
+.navbar-brand{
+  color:#EED202;
+}
+
+.navbar-brand:hover{
+  color: #EED202;
+}
+
+.nav-icon{
+  color: #f4f4f4;
+  padding-right: 10px;
+}
+
+.navbar-row{
+  margin-left: 50px;
+}
+
+/* landing section */
+.landing-h1{
+  color: #EED202;
+  font-family:"Montserrat";
+  font-size: 3.7rem;
+  font-weight: 800;
+  line-height: 1.7;
+  text-align: center;
+}
+
+.landing-h2{
+  color: #EED202;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: left;
+  /*margin-left: 30px;*/
+}
+
+.landing-img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .25), 0 6px 20px 0 rgba(0, 0, 0, .2);
+  border-radius: 60%;
+  width: 550px;
+}
+
+.landing-img1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .25), 0 6px 20px 0 rgba(0, 0, 0, .2);
+  border-radius: 8px;
+  margin: auto;
+  width: 1056px;
+}
+
+.landing-row{
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.landing-row1{
+  margin-top: 50px;
+  /*padding-bottom: 100px;*/
+}
+
+.landing-col1{
+  margin-top: 100px;
+}
+
+/* mission statement section*/
+
+#mission{
+  background-color:#F4F4F4;
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.mission-container{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.mission-h2{
+  font-size: 3rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+.mission-p{
+  color: #8f8f8f;
+  font-weight: 300;
+  text-align: left;
+}
+
+.mission-img{
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .25), 0 6px 20px 0 rgba(0, 0, 0, .2);
+  width: 300px;
+}
+
+/* featured horses section */
+#featured{
+  background-color: #A0A0A0;
+  color: #EED202;
+  font-family: "Montserrat";
+  text-align: center;
+}
+.featured-container{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.featured-button{
+  margin: auto;
+}
+
+.featured-div{
+  text-align: center;
+}
+
+.featured-h2{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.featured-row{
+  /*background-color:#A0A0A0*/
+  margin-top: 50px;
+}
+
+.featured-row1{
+  margin-top: 50px;
+  margin-bottom:50px;
+}
+
+.featured-row2{
+  margin-bottom:50px;
+}
+
+.featured-img{
+  border-radius: 50%;
+  margin: auto;
+  width: 300px;
+}
+
+/* donate section */
+
+#donate{
+  font-family: "Montserrat";
+  background-color: #f4f4f4;
+  font-weight: 700;
+
+  /*margin-bottom: 50px;*/
+}
+
+.donate-h1{
+  font-weight: 700;
+  text-align: center;
+}
+
+.btn-style{
+  color: #f4f4f4;
+}
+
+.container-donate{
+  background-color: #f4f4f4;
+  padding-bottom: 50px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.mb-3{
+
+}
+
+.card-background{
+  background-color: #f4f4f4;
+}
+
+/* contact section*/
+
+#contact{
+  font-family: "Montserrat";
+  color: #EED202;
+  background-color: #A0A0A0;
+}
+
+.contact-h2{
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.contact-col{
+  margin-top: 50px;
+}
+
+.contact-col1{
+   margin-left: 40px;
+}
